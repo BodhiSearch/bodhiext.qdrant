@@ -1,19 +1,14 @@
 # Bodhilib plugin for Qdrant Vector DB
-
-
-
-![pypi](https://img.shields.io/pypi/v>/bodhiext.qdrant.svg)
-
-![[ci](https://img.shields.io/travis/BodhiSearch/bodhiext.qdrant.svg)](https://travis-ci.com/BodhiSearch/bodhiext.qdrant)
-
-![[Documentation Status](https://readthedocs.org/projects/bodhiext.qdrant/badge/?version=latest)](https://bodhiext.qdrant.readthedocs.io/en/latest/?version=latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/BodhiSearch/bodhiext.qdrant/blob/main/LICENSE)
+![pypi](https://img.shields.io/pypi/v/bodhiext.qdrant.svg)
+[![CI/CD](https://github.com/BodhiSearch/bodhiext.qdrant/actions/workflows/main.yml/badge.svg)](https://github.com/BodhiSearch/bodhiext.qdrant/actions/workflows/main.yml)
+[![Documentation Status](https://readthedocs.org/projects/bodhiextqdrant/badge/?version=stable)](https://bodhiextqdrant.readthedocs.io/en/stable/)
+[![codecov](https://codecov.io/gh/BodhiSearch/bodhiext.qdrant/branch/main/graph/badge.svg)](https://codecov.io/gh/BodhiSearch/bodhiext.openai/)
 
 Bodhilib plugin for Qdrant Vector DB by bodhiext
 
-
-\* Free software: MIT license
-\* Documentation: <https:/>/bodhiext.qdrant.readthedocs.io.
-
+* Free software: MIT license
+* Documentation: <https:/>/bodhiext.qdrant.readthedocs.io.
 
 # Features
 
