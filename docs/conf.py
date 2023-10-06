@@ -39,6 +39,8 @@ todo_include_todos = False
 nitpick_ignore = [
     ("py:class", "Embedding"),
     ("py:class", "SupportsText"),
+    ("py:exc", "VectorDBError"),
+    ("py:class", "qdrant_client.qdrant_client.QdrantClient"),
 ]
 # -- Options for HTML output -------------------------------------------
 html_theme = "sphinx_rtd_theme"
