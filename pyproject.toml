@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bodhiext.qdrant"
-version = "0.1.0"
+version = "0.1.1"
 description = "Bodhilib plugin for Qdrant Vector DB by bodhiext"
 authors = []
 readme = "README.md"
